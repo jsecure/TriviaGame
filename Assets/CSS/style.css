@@ -1,0 +1,10 @@
+.jumbotron{
+    background-color: midnightblue;
+    color:white;
+    border: solid 15px red;
+}
+
+#question-well{
+
+    margin-bottom:20px;
+}
